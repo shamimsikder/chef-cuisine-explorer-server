@@ -1,0 +1,51 @@
+[  
+    {   
+        "id": 1,    
+        "chefName": "Massimo Bottura",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 50,
+        "likes": 1000,
+        "chefPicture": "https://i.ibb.co/ynLppmH/Massimo-Bottura.jpg"  
+    },  
+    {   
+        "id": 2,    
+        "chefName": "Giada De Laurentiis",
+        "yearsOfExperience": 5,
+        "numberOfRecipes": 20,
+        "likes": 500,
+        "chefPicture": "https://i.ibb.co/0KLxRz1/Giada-De-Laurentiis.jpg"  
+    },  
+    {   
+        "id": 3,    
+        "chefName": " Fabio Viviani",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 100,
+        "likes": 2000,
+        "chefPicture": "https://i.ibb.co/DDgyn91/Fabio-Viviani.jpg"  
+    },
+    {   
+        "id": 4,    
+        "chefName": "Gino D’Acampo",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 60,
+        "likes": 1200,
+        "chefPicture": "https://i.ibb.co/JKZBTjM/Gino-D-Acampo.jpg"  
+    },  
+    {    
+        "id": 5,    
+        "chefName": "Giorgio Locatelli",
+        "yearsOfExperience": 7,
+        "numberOfRecipes": 40,
+        "likes": 700,
+        "chefPicture": "https://i.ibb.co/8XzdP9W/Giorgio-Locatelli.jpg"  
+    },  
+    {    
+        "id": 6,    
+        "chefName": "Carlo Cracco",
+        "yearsOfExperience": 17,
+        "numberOfRecipes": 110,
+        "likes": 5000,
+        "chefPicture": "https://i.ibb.co/Dg7F0zh/Carlo-Cracco.jpg"
+    }
+
+]
