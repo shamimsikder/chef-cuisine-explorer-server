@@ -6,6 +6,7 @@ const cors = require('cors')
 app.use(cors())
 
 const chef = require('./json/chef.json')
+const chefDetails = require('./json/chefDetails.json')
 
 app.get('/', (req, res) => {
 
@@ -16,6 +17,13 @@ app.get('/', (req, res) => {
 app.get('/chef', (req, res) => {
     res.send(chef)
 })
+
+app.get('/chefDetails/:id', (req, res) => {
+    const chefId = req.params.id
+    const chefDetail = chefDetails.find(chef => parseInt(chef.id) === parseInt(chefId))
+    res.send(chefDetail)
+})
+
 
 app.listen(port, () => {
 
