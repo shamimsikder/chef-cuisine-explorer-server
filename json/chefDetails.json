@@ -9,6 +9,7 @@
         "shortBio": "Massimo Bottura is an Italian restaurateur and chef. He is the owner of Osteria Francescana, a three-Michelin-star restaurant in Modena, Italy. Bottura has been listed among Time magazine's Most Influential People in the World and has received numerous awards for his culinary achievements.",
         "recipes": [
           {
+            "__id": 1,
             "name": "Parmigiano-Reggiano Wheel",
             "image": "https://i.ibb.co/xsvV7bx/Parmigiano-Reggiano-Wheel.jpg",
             "ingredients": [
@@ -22,6 +23,7 @@
             "rating": 4.5
           },
           {
+            "__id": 2,
             "name": "Risotto alla Parmigiana",
             "image": "https://i.ibb.co/Mnptk5R/Risotto-alla-Parmigiana.jpg",
             "ingredients": [
@@ -35,6 +37,7 @@
             "rating": 4.8
           },
           {
+            "__id": 3,
             "name": "Tagliatelle al Ragù di Maiale",
             "image": "https://i.ibb.co/J2zW4kD/Tagliatelle-al-Rag-di-Maiale.jpg",
             "ingredients": [
@@ -65,6 +68,7 @@
         "shortBio": "Giada De Laurentiis is an Italian-American chef, writer, and television personality. She is the host of Food Network's Giada at Home and has authored several cookbooks. De Laurentiis has received numerous awards for her culinary achievements and has been featured on several television programs and in various publications.",
         "recipes": [
             {
+                "__id": 4,
                 "name": "Lemon Spaghetti",
                 "image": "https://i.ibb.co/n69nS2z/Lemon-Spaghetti.jpg",
                 "ingredients": [
@@ -77,7 +81,8 @@
                 "cookingMethod": "Cook the spaghetti in a large pot of boiling salted water until tender but still firm to the bite, stirring occasionally, about 8 minutes. Meanwhile, whisk the oil, Parmesan, and lemon juice in a large bowl to blend. Drain the spaghetti, reserving 1 cup of the cooking liquid. Toss the spaghetti with the lemon sauce, and the reserved cooking liquid, adding 1/4 cup at a time as needed to moisten. Season with salt and pepper to taste.",
                 "rating": 4.5
             },
-            {
+            {   
+                "__id": 5,
                 "name": "Italian Wedding Soup",
                 "image": "https://i.ibb.co/SsJLQdP/Italian-Wedding-Soup.jpg",
                 "ingredients": [
@@ -91,6 +96,7 @@
                 "rating": 4.2
             },
             {
+                "__id": 6,
                 "name": "Caprese Salad",
                 "image": "https://i.ibb.co/1X21D9L/Caprese-Salad.jpg",
                 "ingredients": [
@@ -114,7 +120,8 @@
         "chefPicture": "https://i.ibb.co/DDgyn91/Fabio-Viviani.jpg",
         "shortBio": "Fabio Viviani is an Italian-American chef, restaurateur, and television personality. He is the owner of several restaurants in the United States and has appeared on several television programs, including Top Chef. Viviani has authored several cookbooks and has received numerous awards for his culinary achievements.",
         "recipes": [
-            {
+            {   
+                "__id": 7,
                 "name": "Braised Chicken Thighs",
                 "image": "https://i.ibb.co/Dwjnw3g/Braised-Chicken-Thighs.jpg",
                 "ingredients": [
@@ -131,6 +138,7 @@
                 "rating": 4.5
             },
             {
+                "__id": 8,
                 "name": "Spaghetti Carbonara",
                 "image": "https://i.ibb.co/mG5xGmP/Spaghetti-Carbonara.jpg",
                 "ingredients": [
@@ -146,6 +154,7 @@
                 "rating": 4.7
             },
             {
+                "__id": 9,
                 "name": "Grilled Ribeye Steak",
                 "image": "https://i.ibb.co/jLZ1kWB/Grilled-Ribeye-Steak.jpg",
                 "ingredients": [
@@ -172,6 +181,7 @@
         "shortBio": "Gino D’Acampo is an Italian chef and television personality. He is the host of Gino's Italian Escape and has authored several cookbooks. D’Acampo has received numerous awards for his culinary achievements and has appeared on several television programs, including This Morning and Celebrity Juice.",
         "recipes": [
             {
+                "__id": 10,
             "name": "Spaghetti alle vongole",
             "image": "https://i.ibb.co/frzzfGJ/Spaghetti-alle-vongole.jpg",
             "ingredients": [
@@ -187,6 +197,7 @@
             "rating": 4.8
             },
             {
+                "__id": 11,
             "name": "Risotto ai funghi",
             "image": "https://i.ibb.co/3F4phM7/Risotto-ai-funghi.jpg",
             "ingredients": [
@@ -206,6 +217,7 @@
             "rating": 4.7
             },
             {
+                "__id": 12,
             "name": "Pollo alla cacciatora",
             "image": "https://i.ibb.co/xFK2mPk/Pollo-alla-cacciatora.jpg",
             "ingredients": [
@@ -238,6 +250,7 @@
         "recipes": [
         
             {
+                "__id": 13,
                 "name": "Coq au vin",
                 "image": "https://i.ibb.co/ySsBWWz/Coq-au-vin.jpg",
                 "ingredients": [
@@ -259,6 +272,7 @@
             },
             
             {
+                "__id": 14,
                 "name": "Pappardelle al Cinghiale",
                 "image": "https://i.ibb.co/QXtvn1M/Pappardelle-al-Cinghiale.jpg",
                 "ingredients": [
@@ -284,6 +298,7 @@
                 "rating": 4.9
             },
             {
+                "__id": 15,
                 "name": "Tortellini in Brodo",
                 "image": "https://i.ibb.co/xDPc8X3/Tortellini-in-Brodo.jpg",
                 "ingredients": [
@@ -318,6 +333,7 @@
         "recipes": [
 
             {
+                "__id": 16,
                 "name": "Linguine alle vongole",
                 "image": "https://i.ibb.co/frzzfGJ/Spaghetti-alle-vongole.jpg",
                 "ingredients": [
@@ -331,6 +347,7 @@
                 "rating": 4.8
             },
             {
+                "__id": 17,
                 "name": "Risotto alla Milanese",
                 "image": "https://i.ibb.co/x6fqRP1/Risotto-alla-Milanese.jpg",
                 "ingredients": [
@@ -344,6 +361,7 @@
                 "rating": 4.5
             },
             {
+                "__id": 18,
                 "name": "Ossobuco alla Milanese",
                 "image": "https://i.ibb.co/f0PpMWh/Ossobuco-alla-milanese.jpg",
                 "ingredients": [
